@@ -4,4 +4,4 @@
 
 - 🔭 Currently working on: AI Projects  
 - 🌱 Learning: Advanced LLMs  
-- 📫 Reach me: your@email.com  
+- 📫 Reach me: samirshkumar@gmail.com
